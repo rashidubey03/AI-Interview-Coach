@@ -22,5 +22,3 @@ The system consists of 3 AI agents:
    - Rewrites the answer in a better, structured way
 
 ---
-
-## 🔀 Workflow
